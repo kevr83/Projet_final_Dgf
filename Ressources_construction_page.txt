@@ -1,0 +1,51 @@
+images jeux vidéos :
+https://unsplash.com/fr/s/photos/-Jeux-vid%C3%A9o
+
+Redimensionner un png :
+https://www.iloveimg.com/fr/redimensionner-image/png-redimensionner
+
+Couleurs dégradées, récupérer le code css pour une couleur en dégradée :
+https://gradients.app/fr/new
+
+☰
+
+Police d'écriture de la page :
+/* Importation de la police Roboto depuis Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Importation de la police Press Start 2P depuis Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+/* Définition des variables CSS pour les polices et les couleurs */
+:root {
+    --font-primary: 'Roboto', sans-serif; /* Définition de la police principale */
+    --font-title: 'Press Start 2P', cursive; /* Définition de la police pour les titres */
+    --color-primary: #ffd700; /* Couleur dorée */
+    --color-background: rgba(0, 0, 0, 0.6); /* Fond semi-transparent noir */
+    --color-text: #fff; /* Blanc pour le texte */
+    --text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Ombre portée pour le texte */
+    --color-fond-page: linear-gradient(90deg, #2a295c,#e3865b,#8c6d1a);
+    --color-fond-th: rgba(0, 0, 0, 0.8); /* Fond noir semi-transparent */
+    --color-fond-td: rgba(0, 0, 0, 0.5); /* Fond noir semi-transparent */
+}
+/* Définition des variables CSS pour les polices et les couleurs */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
